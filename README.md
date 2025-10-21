@@ -7,7 +7,7 @@ For over a decade, I’ve built scalable systems, playbooks, and data frameworks
 
 ## 💼 1. Professional Snapshot  
 
-Currently serving as **Senior Manager of Customer Success** at **Best Version Media**, I lead onboarding, activation, and retention strategy for a **$4.7M SMB portfolio** across six U.S. regions. My team supports more than **2000 active local advertisers**, focusing on improving time to value, reducing churn, and aligning post-sale operations with revenue outcomes.  
+Currently serving as **Senior Manager of Customer Success** at **Best Version Media**, I lead onboarding, activation, and retention strategy for a **$3.7M SMB portfolio** across six U.S. regions. My team supports more than **2000 active local advertisers**, focusing on improving time to value, reducing churn, and aligning post-sale operations with revenue outcomes.  
 
 Previously, I led enablement and lifecycle initiatives for SaaS and MarTech clients — designing onboarding models, building success playbooks, and scaling customer health frameworks that consistently improved NRR, ARR, and client satisfaction.  
 
