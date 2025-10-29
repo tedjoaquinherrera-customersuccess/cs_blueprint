@@ -5,7 +5,7 @@ For over a decade, I’ve built scalable systems, playbooks, and data frameworks
 
 ---
 
-## 💼 1. Professional Snapshot  
+## 1. Professional Snapshot  
 
 Currently serving as **Senior Manager of Customer Success** at **Best Version Media**, I lead onboarding, activation, and retention strategy for a **$3.7M SMB portfolio** across six U.S. regions. My team supports more than **2000 active local advertisers**, focusing on improving time to value, reducing churn, and aligning post-sale operations with revenue outcomes.  
 
@@ -13,7 +13,7 @@ Previously, I led enablement and lifecycle initiatives for SaaS and MarTech clie
 
 ---
 
-## 🎯 2. Core Focus Areas  
+## 2. Core Focus Areas  
 
 - Customer Onboarding and Activation Strategy  
 - Lifecycle Enablement and Adoption Frameworks  
@@ -24,7 +24,7 @@ Previously, I led enablement and lifecycle initiatives for SaaS and MarTech clie
 
 ---
 
-## 📘 3. Onboarding Acceleration Framework  
+## 3. Onboarding Acceleration Framework  
 
 At Best Version Media, I developed a **regional launch-to-value onboarding model** that standardized publisher and advertiser workflows across six markets.  
 
@@ -34,7 +34,7 @@ At Best Version Media, I developed a **regional launch-to-value onboarding model
 
 ---
 
-## 📊 4. Retention and Health Scoring System  
+## 4. Retention and Health Scoring System  
 
 - Designed predictive health scoring combining campaign performance, sentiment analysis, and engagement signals, improving visibility across 500+ accounts.  
 - Lifted portfolio NRR by **15%** and reduced attrition through data-driven renewal readiness processes.  
@@ -42,7 +42,7 @@ At Best Version Media, I developed a **regional launch-to-value onboarding model
 
 ---
 
-## 🚀 5. Enablement and Playbook Development  
+## 5. Enablement and Playbook Development  
 
 - Scaled onboarding and success enablement operations, supporting six regions and over 40 field representatives.  
 - Created modular onboarding playbooks used to train new hires and streamline handoffs from Sales to Customer Success.  
@@ -50,7 +50,7 @@ At Best Version Media, I developed a **regional launch-to-value onboarding model
 
 ---
 
-## 💬 6. Voice of Customer and Feedback Loops  
+## 6. Voice of Customer and Feedback Loops  
 
 - Built a Voice of Customer (VOC) program that became the foundation for quarterly product and marketing strategy sessions.  
 - Partnered with Sales and Product to translate customer insights into roadmap decisions, driving a **25%** increase in feature adoption.  
@@ -58,7 +58,7 @@ At Best Version Media, I developed a **regional launch-to-value onboarding model
 
 ---
 
-## 🧩 7. Featured Projects  
+## 7. Featured Projects  
 
 **“Decline Drip” Reactivation Campaign**  
 Created an automated outreach sequence targeting lapsed and at-risk advertisers. By pairing lifecycle messaging with personalized ROI insights, the program reduced churn by **12%** within 90 days and reactivated over 40 accounts.  
@@ -71,7 +71,7 @@ Developed a suite of onboarding and retention playbooks, including Success Plann
 
 ---
 
-## 📈 Measurable Impact  
+## Measurable Impact  
 
 | Metric | Result | Impact |  
 |--------|---------|--------|  
@@ -79,25 +79,25 @@ Developed a suite of onboarding and retention playbooks, including Success Plann
 | Expansion Revenue | $3M+ | Increased ARR through upsell programs |  
 | Time to Value | −30% | Accelerated onboarding and activation |  
 | Team Productivity | +22% | Enhanced operational efficiency |  
-| Portfolio | $4.7M+ ARR | Six-region SMB market coverage |  
+| Portfolio | $3.7M+ ARR | Six-region SMB market coverage |  
 
 ---
 
-## 🧰 Tools and Platforms  
+##  Tools and Platforms  
 
 Gainsight • HubSpot • Salesforce • Close CRM • Zonka • Tableau • Excel • Canva • Google Workspace • Monday.com • Slack  
 
 ---
 
-## 🧠 Philosophy  
+## Philosophy  
 
-Customer Success should not only retain clients — it should **grow revenue through measurable outcomes**.  
+Customer Success should not only retain clients, it should **grow revenue through measurable outcomes**.  
 I believe in building **scalable systems** that empower teams, clarify accountability, and ensure customers see value fast, stay engaged, and expand over time.  
 
 ---
 
 
-## 🤝 Let’s Connect  
+## Let’s Connect  
 
 I’m always open to conversations about building scalable, outcome-driven Customer Success systems.  
 📫 Connect with me on https://www.linkedin.com/in/ted-joaquin-herrera-customer-success/ or email me at **tedjoaquinherrera@proton.me**.  
