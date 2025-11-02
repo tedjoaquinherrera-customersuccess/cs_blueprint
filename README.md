@@ -1,103 +1,108 @@
-# Ted Herrera — Customer Success Blueprint  
+# Ted Herrera — Customer Success Blueprint
 
-Welcome to my Customer Success and Onboarding portfolio.  
-For over a decade, I’ve built scalable systems, playbooks, and data frameworks that transform Customer Success and Onboarding into strategic growth engines. My work spans SaaS, MarTech, and digital media — uniting people, process, and performance to drive retention, expansion, and customer lifetime value.  
+I build revenue systems through Customer Success.
 
----
+By combining segmentation, CSOps intelligence, and lifecycle strategy, I design operating models that reduce churn, drive expansion, and give teams real time clarity on where to act. Retention is not a reaction — it is a system. When built correctly, it scales outcomes without losing visibility or accountability.
 
-## 1. Professional Snapshot  
+At Best Version Media, I transformed a support function into a predictive growth engine. I built health scoring models, segmentation logic, and weekly coaching workflows that power retention and upsell strategy across a portfolio of 2500 active advertisers and six U.S. regions. These tools now guide how Sales, Market Support, and CS prioritize client outcomes and publisher performance.
 
-Currently serving as **Senior Manager of Customer Success** at **Best Version Media**, I lead onboarding, activation, and retention strategy for a **$3.7M SMB portfolio** across six U.S. regions. My team supports more than **2000 active local advertisers**, focusing on improving time to value, reducing churn, and aligning post-sale operations with revenue outcomes.  
-
-Previously, I led enablement and lifecycle initiatives for SaaS and MarTech clients — designing onboarding models, building success playbooks, and scaling customer health frameworks that consistently improved NRR, ARR, and client satisfaction.  
+My background spans SaaS, digital media, and MarTech. Across every industry, the goal remains the same — build intelligent systems that align revenue teams and make growth predictable.
 
 ---
 
-## 2. Core Focus Areas  
+## 1. Core Focus Areas
 
-- Customer Onboarding and Activation Strategy  
-- Lifecycle Enablement and Adoption Frameworks  
-- Revenue Retention and Expansion Systems  
-- Success Operations and Performance Analytics  
-- Voice of Customer and Product Feedback Loops  
-- Cross-Functional Collaboration (Sales, Product, Marketing)  
-
----
-
-## 3. Onboarding Acceleration Framework  
-
-At Best Version Media, I developed a **regional launch-to-value onboarding model** that standardized publisher and advertiser workflows across six markets.  
-
-- Reduced time to value by **30%** through structured onboarding milestones and cross-functional alignment.  
-- Increased early-stage retention by **18%** via proactive check-ins and digital adoption coaching.  
-- Built a digital onboarding journey for hybrid print-plus-digital advertisers that boosted multi-channel campaign adoption by **22%**.  
+- Customer Success Operations  
+- Retention and Churn Mitigation Strategy  
+- Revenue Expansion and Upsell Enablement  
+- Predictive Health Scoring and Segmentation  
+- Strategic Business Reviews  
+- Cross Functional Coaching (Sales, Market Support, Product)  
+- Voice of Customer Integration  
 
 ---
 
-## 4. Retention and Health Scoring System  
+## 2. CSOps System: Retention Intelligence in Motion
 
-- Designed predictive health scoring combining campaign performance, sentiment analysis, and engagement signals, improving visibility across 500+ accounts.  
-- Lifted portfolio NRR by **15%** and reduced attrition through data-driven renewal readiness processes.  
-- Delivered executive dashboards integrating Gainsight, HubSpot, and internal CRM data, providing real-time retention and revenue forecasting.  
+At BVM, I designed a CSOps framework that connects client behavior with revenue strategy:
 
----
-
-## 5. Enablement and Playbook Development  
-
-- Scaled onboarding and success enablement operations, supporting six regions and over 40 field representatives.  
-- Created modular onboarding playbooks used to train new hires and streamline handoffs from Sales to Customer Success.  
-- Improved team productivity by **22%** through the implementation of enablement frameworks, process documentation, and peer coaching systems.  
+- Created a Health Scoring System with weighted inputs across renewal status, product mix, risk ratio, and engagement patterns  
+- Built real time Segmentation Models for Renewable, Declined, and Print Only Upsell accounts  
+- Architected the Bruno x Hank Dashboard with live reporting across Book of Business, risk, digital share, and SBR performance  
+- Enabled weekly retention reviews by rep and region, replacing guesswork with measurable action  
+- Reduced decline rates by 14 percent and improved upsell visibility across all client tiers  
 
 ---
 
-## 6. Voice of Customer and Feedback Loops  
+## 3. Revenue Retention and Growth Strategy
 
-- Built a Voice of Customer (VOC) program that became the foundation for quarterly product and marketing strategy sessions.  
-- Partnered with Sales and Product to translate customer insights into roadmap decisions, driving a **25%** increase in feature adoption.  
-- Established closed-loop feedback systems, ensuring every customer touchpoint informed future onboarding and retention strategy.  
-
----
-
-## 7. Featured Projects  
-
-**“Decline Drip” Reactivation Campaign**  
-Created an automated outreach sequence targeting lapsed and at-risk advertisers. By pairing lifecycle messaging with personalized ROI insights, the program reduced churn by **12%** within 90 days and reactivated over 40 accounts.  
-
-**Digital Boost Pilot Program**  
-Partnered with Marketing and Sales to design a print-plus-digital pilot for SMB advertisers. The initiative increased upsell adoption by **22%**, strengthened advertiser ROI visibility, and became a repeatable framework for multi-product activation.  
-
-**Customer Success Playbook Library**  
-Developed a suite of onboarding and retention playbooks, including Success Planning, Renewal Readiness, and Escalation Management, used company-wide to align teams around NRR and client outcomes.  
+- Increased Net Revenue Retention by 15 percent through renewal forecasting and lifecycle mapping  
+- Deployed Decline Drip Reactivation sequences that reclaimed over 40 at risk accounts  
+- Launched a Digital Boost Program that expanded Print Only advertisers into digital bundles and lifted multi product adoption by 22 percent  
+- Built cross team playbooks that prioritize upsell timing and renewal readiness  
 
 ---
 
-## Measurable Impact  
+## 4. Enablement and Lifecycle Systems
+
+- Developed a playbook suite for Renewals, Success Planning, Escalation, and Strategic Reviews  
+- Scaled enablement across 40 plus field reps through templated workflows and publisher coaching  
+- Lifted CS productivity by 22 percent through shared systems, documentation, and retention rituals  
+
+---
+
+## 5. Voice of Customer and Feedback Loops
+
+- Built a Voice of Customer program used to inform product strategy and campaign creative  
+- Drove a 25 percent increase in digital product adoption through structured feedback integration  
+- Aligned VOC data with onboarding, renewals, and SBRs for closed loop lifecycle improvement  
+
+---
+
+## 6. Featured Projects
+
+**Bruno x Hank — Predictive CSOps Platform**  
+Live dashboard combining Book of Business, Risk Ratio, Digital Mix, and renewal status. Used weekly to drive publisher coaching and team strategy.
+
+**Digital Boost Growth Program**  
+Print to digital expansion initiative that increased cross product adoption by 22 percent and drove over 3 million in upsell revenue.
+
+**Segmented Retention Coaching**  
+Created rep level retention reviews based on live risk data, campaign mix, and renewal pacing. Now used across all regions to guide CS and Market Support.
+
+---
+
+## 7. Measurable Impact
 
 | Metric | Result | Impact |  
-|--------|---------|--------|  
-| Retention | +18% | Strengthened long-term client value |  
-| Expansion Revenue | $3M+ | Increased ARR through upsell programs |  
-| Time to Value | −30% | Accelerated onboarding and activation |  
-| Team Productivity | +22% | Enhanced operational efficiency |  
-| Portfolio | $3.7M+ ARR | Six-region SMB market coverage |  
+|--------|--------|--------|  
+| Retention Rate | 18 percent lift | Strengthened renewal stability and client longevity |  
+| Decline Rate | 14 percent reduction | Predictive segmentation and proactive outreach |  
+| Expansion Revenue | Over 3 million | Increased ARR through digital bundling and upsells |  
+| Net Revenue Retention | 15 percent lift | Forecastable growth across the portfolio |  
+| CS Team Output | 22 percent increase | System based enablement and performance routines |  
+| Portfolio | 3.7 million ARR | Six region SMB coverage across 2500 clients |  
 
 ---
 
-##  Tools and Platforms  
+## 8. Tools and Platforms
 
-Gainsight • HubSpot • Salesforce • Close CRM • Zonka • Tableau • Excel • Canva • Google Workspace • Monday.com • Slack  
-
----
-
-## Philosophy  
-
-Customer Success should not only retain clients, it should **grow revenue through measurable outcomes**.  
-I believe in building **scalable systems** that empower teams, clarify accountability, and ensure customers see value fast, stay engaged, and expand over time.  
+Gainsight • HubSpot • Salesforce • Close CRM • Tableau • Zonka • Google Workspace • Excel • Monday.com • Slack • Canva  
 
 ---
 
+## 9. Philosophy
 
-## Let’s Connect  
+Retention is a strategy, not a result.
 
-I’m always open to conversations about building scalable, outcome-driven Customer Success systems.  
-📫 Connect with me on https://www.linkedin.com/in/ted-joaquin-herrera-customer-success/ or email me at **tedjoaquinherrera@proton.me**.  
+Customer Success should never operate in the dark. It should surface risk before it becomes churn. It should forecast growth before it happens. And it should align every team around a shared view of where the customer is — and where they are going.
+
+I build systems that make that happen.
+
+---
+
+## 10. Let’s Connect
+
+If you are building CSOps, scaling your Customer Success function, or rethinking how retention drives revenue, I am always open to connect.  
+📫 [LinkedIn](https://www.linkedin.com/in/ted-joaquin-herrera-customer-success/)  
+📧 **tedjoaquinherrera@proton.me**
