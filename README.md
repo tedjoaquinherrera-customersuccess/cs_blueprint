@@ -24,11 +24,11 @@ My background spans SaaS, digital media, and MarTech. Across every industry, the
 
 ## 2. CSOps System: Retention Intelligence in Motion
 
-At BVM, I designed a CSOps framework that connects client behavior with revenue strategy:
+At BVM, I designed an **AI driven CSOps platform** that connects client behavior with revenue strategy:
 
 - Created a Health Scoring System with weighted inputs across renewal status, product mix, risk ratio, and engagement patterns  
 - Built real time Segmentation Models for Renewable, Declined, and Print Only Upsell accounts  
-- Architected the Bruno x Hank Dashboard with live reporting across Book of Business, risk, digital share, and SBR performance  
+- Architected the **Bruno x Hank System** — an AI driven dashboard with live reporting across Book of Business, risk, digital share, and SBR performance  
 - Enabled weekly retention reviews by rep and region, replacing guesswork with measurable action  
 - Reduced decline rates by 14 percent and improved upsell visibility across all client tiers  
 
@@ -61,8 +61,8 @@ At BVM, I designed a CSOps framework that connects client behavior with revenue 
 
 ## 6. Featured Projects
 
-**Bruno x Hank — Predictive CSOps Platform**  
-Live dashboard combining Book of Business, Risk Ratio, Digital Mix, and renewal status. Used weekly to drive publisher coaching and team strategy.
+**Bruno x Hank — AI Driven CSOps Platform**  
+AI powered system combining Book of Business, Risk Ratio, Digital Mix, and renewal status. Used weekly to drive publisher coaching, segmentation strategy, and retention execution across CS, Sales, and Market Support.
 
 **Digital Boost Growth Program**  
 Print to digital expansion initiative that increased cross product adoption by 22 percent and drove over 3 million in upsell revenue.
